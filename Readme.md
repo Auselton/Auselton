@@ -36,5 +36,14 @@
 - Phone calls and emails to customers to build report
 - Providing the easiest experience for customers in their car buying process
 - Running a CRM
+# Education
+- Crowley High School
+- Quickstart Software Engineering Bootcamp
+# Certifications
+- Tabc
+- Food Handlers
+- Food Managers
+
+
 
 
